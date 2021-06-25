@@ -1,2 +1,2 @@
 # TypeScript
-practice TypeScript
+practice TypeScript log
