@@ -4,7 +4,9 @@
   "description": "practice TypeScript log",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
